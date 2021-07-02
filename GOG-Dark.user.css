@@ -690,6 +690,9 @@ img[src="https://items.gog.com/separator.jpg"] {
 .article-section__title, .article__secondary_title {
 	color: var(--text2);
 }
+.article__body a {
+	background-image: linear-gradient(90deg,var(--text1),var(--text1));
+}
 .article__body, .article__body p {
 	color: var(--text1);
 }
