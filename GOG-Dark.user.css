@@ -318,6 +318,11 @@ body .catalog__body--slide-desktop:not(.catalog__body--list-view) .product-tile-
 	background: #405200;
 	border-color: #435500;
 }
+/* /age-gate */
+.age-gate {
+	background: var(--bg);
+	color: var(--text1);
+}
 /* /order */
 .order__title--success {
 	color: #8ac500;
